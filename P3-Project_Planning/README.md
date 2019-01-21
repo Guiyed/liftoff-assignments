@@ -15,14 +15,15 @@
 * [Events Type Template](/P3-Project_Planning/Wireframes/EventTypeTemplate.png)
 
 ![wireframes preview](/P3-Project_Planning/Wireframes/Preview.png)
-
-Click here to run the [Prototype](https://www.fluidui.com/editor/live/preview/cF9Rd1RUQWJ0RXBRR080SXBtSGhaOVJtMXJEMFRTVHZtVg==)
+	Click here to run the [Prototype](https://www.fluidui.com/editor/live/preview/cF9Rd1RUQWJ0RXBRR080SXBtSGhaOVJtMXJEMFRTVHZtVg==)
 
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Venue App Project Tracker](https://www.pivotaltracker.com/projects/2238072)
+
+ I will be adding some pictures during the different stages of the project.
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Venue project repository](https://github.com/Guiyed/VenueApp)
