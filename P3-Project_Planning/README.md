@@ -2,9 +2,9 @@
 
 ### Wireframes
 
-* [Home](P3-Project_Planning//Wireframes/Home.png)
-* [Signup](P3-Project_Planning//Wireframes/SignUp.png)
-* ![Create Account Logo](P3-Project_Planning//Wireframes/CreateAccount.png)
+* [Home](P3-Project_Planning/Wireframes/Home.png)
+* [Signup](P3-Project_Planning/Wireframes/SignUp.png)
+* ![Create Account Logo](//Wireframes/CreateAccount.png)
 
 ### Project Tracker
 
