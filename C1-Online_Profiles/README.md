@@ -7,4 +7,4 @@ https://github.com/Guiyed
 https://www.linkedin.com/in/gdzerpa/
 
 ### Resume
-[Technical Resume](/C1-Online_Profiles/Resume/Technical ResumeLC - Guil.pdf)
+[Technical Resume](/C1-Online_Profiles/Resume/TechnicalResumeLC-gzerpa.pdf)
