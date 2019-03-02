@@ -21,8 +21,7 @@
 ### Project Tracker
 
 [Venue App Project Tracker](https://www.pivotaltracker.com/projects/2238072)
-
- I will be adding some pictures during the different stages of the project.
+ 
 
 ### Project Repo Link
 
